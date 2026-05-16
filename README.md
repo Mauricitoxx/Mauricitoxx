@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mauro Lista 👋</h1>
+—<h1 align="center">Hey, I'm Mauro Lista 👋</h1>
 
 <h3 align="center">
 Full Stack Developer from Argentina 🇦🇷
@@ -79,9 +79,8 @@ Building modern web experiences, scalable applications and real-world projects.
 - 🎨 Interactive UI experiences
 
 ---
-
-(https://images.openai.com/static-rsc-4/D9aNSANKcmPGrvJHaS9KcOcnUmU3ETeIakGUveRfEI1D2pJZreFtbTwgYk4fU7hcHS749QQuFvE6xMfiL985u5XBMdmSvvFhsR6EP5SwpQiKtYliS0Q9PX3IckbbEVZoVmmQslcC4NlKRcSfw7RPHDJ-xPU0T2GznmW1dXPvvlTRZ2U2M-TMRDpS5EhIHQiv?purpose=fullsize)
-
+<img src="https://images.openai.com/static-rsc-4/D9aNSANKcmPGrvJHaS9KcOcnUmU3ETeIakGUveRfEI1D2pJZreFtbTwgYk4fU7hcHS749QQuFvE6xMfiL985u5XBMdmSvvFhsR6EP5SwpQiKtYliS0Q9PX3IckbbEVZoVmmQslcC4NlKRcSfw7RPHDJ-xPU0T2GznmW1dXPvvlTRZ2U2M-TMRDpS5EhIHQiv?purpose=fullsize
+" width="100%" />
 
 ## ☕ Fun Fact
 
